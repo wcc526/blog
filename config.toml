@@ -15,7 +15,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "root@localhost:"
+    title = "whoami"
     subtitle = "A simple theme for Hugo"
     keywords = ""
     copyright = ""
@@ -30,7 +30,7 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "[root@localhost: ~]# "
+      logoText = "[root@localhost: ~]# whoami"
       logoHomeLink = "/"
 
     [languages.en.menu]
