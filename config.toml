@@ -35,10 +35,6 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "online-cv"
-        name = "关于我"
-        url = "/online-cv"
-      [[languages.en.menu.main]]
         identifier = "showcase"
         name = "HIDS指南"
         url = "/hids-cookbook"
